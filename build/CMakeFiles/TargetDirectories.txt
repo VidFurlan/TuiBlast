@@ -1,0 +1,3 @@
+/home/vid/Dev/TuiBlast/build/CMakeFiles/TuiBlast.dir
+/home/vid/Dev/TuiBlast/build/CMakeFiles/edit_cache.dir
+/home/vid/Dev/TuiBlast/build/CMakeFiles/rebuild_cache.dir

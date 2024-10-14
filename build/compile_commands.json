@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/vid/Dev/TuiBlast/include",
+      "-I/home/vid/Dev/TuiBlast/include/TuiBlast",
+      "-I/home/vid/Dev/TuiBlast/textures",
+      "-std=gnu++17",
+      "-c",
+      "-o",
+      "CMakeFiles/TuiBlast.dir/src/main.cpp.o",
+      "/home/vid/Dev/TuiBlast/src/main.cpp"
+    ],
+    "directory": "/home/vid/Dev/TuiBlast/build",
+    "file": "/home/vid/Dev/TuiBlast/src/main.cpp",
+    "output": "/home/vid/Dev/TuiBlast/build/CMakeFiles/TuiBlast.dir/src/main.cpp.o"
+  }
+]

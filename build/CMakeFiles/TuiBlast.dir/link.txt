@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TuiBlast.dir/src/main.cpp.o CMakeFiles/TuiBlast.dir/src/tuiRenderer.cpp.o -o TuiBlast
